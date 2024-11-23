@@ -53,7 +53,7 @@
 
 [![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-## </div>
+</div>
 
 ### **Other Tools**
 
@@ -81,7 +81,7 @@ A simple pizza ordering app with a changing menu and no login.
 
 [![Preview](https://img.shields.io/badge/Preview-%231DA1F2.svg?style=flat&logo=chrome&logoColor=white)](https://fast-react-pizza.netlify.app/)
 
-## </div>
+</div>
 
 ### The Wild Oasis
 
@@ -144,9 +144,8 @@ A recipe search and view application with detailed instructions.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FE5E55&center=true&vCenter=true&width=435&lines=Thanks+for+Visiting!+%F0%9F%91%8B;Feel+Free+to+Connect+%E2%9D%A4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FE5E55&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!" alt="Thank you" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FE5E55&height=120&section=footer" alt="footer"/>
-</div>
+---
+
