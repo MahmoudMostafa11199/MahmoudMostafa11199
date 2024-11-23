@@ -63,13 +63,16 @@ A recipe application that lets users search for and view detailed recipes.
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudMostafa11199&show_icons=true&theme=tokyonight" alt="Mahmoud's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudMostafa11199&theme=tokyonight" alt="GitHub Streak Stats" width="48%"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudMostafa11199&show_icons=true&theme=tokyonight" alt="Mahmoud's GitHub Stats" width="25%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMostafa11199&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudMostafa11199&theme=tokyonight" alt="GitHub Streak Stats" width="25%"/>
+</div>
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudMostafa11199&layout=compact&theme=tokyonight" alt="Top Languages" width="25%"/>
 </div>
 
 ---
