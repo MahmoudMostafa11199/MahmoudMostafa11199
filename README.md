@@ -45,9 +45,11 @@
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
 
 ---
 
+<!--
 ## 💼 Featured Projects
 
 ### The Wild Oasis
@@ -74,6 +76,8 @@ A recipe search and view application with detailed instructions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/MahmoudMostafa11199/forkify)
 [![Preview](https://img.shields.io/badge/Preview-%231DA1F2.svg?style=flat&logo=chrome&logoColor=white)](https://forkify-recipe.netlify.app/)
+
+-->
 
 ---
 
