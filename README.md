@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Hi there! 👋 I'm Mahmoud Mustafa</h2>
+  <h2>Hi there! 👋 I'm Mahmoud Mostafa</h2>
   <p>
     A passionate <b>Front-End Developer</b> crafting beautiful and intuitive user experiences.  
     💻 <i>Turning ideas into functional, elegant web applications.</i>
